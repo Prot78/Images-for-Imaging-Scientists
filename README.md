@@ -4,4 +4,4 @@
 Brain MRI of brain tumor model 
 
 
-![hello](images/630_FLAIR.gif).
+![hello](images/MRIbrain.png).
