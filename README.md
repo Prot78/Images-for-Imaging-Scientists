@@ -2,7 +2,7 @@
 
 
 ## Brain MRI of brain tumor model 
-Glioblastoma (GBM) is a type of brain tumor that is classified as a grade IV astrocytoma, the most aggressive type of brain tumor. GBMs are characterized by their rapid growth and tendency to invade surrounding brain tissue. Here an MRI image of a GBM mouse model of in vivo study is reported. The image relates to  
+Glioblastoma (GBM) is a type of brain tumor that is classified as a grade IV astrocytoma, the most aggressive type of brain tumor. GBMs are characterized by their rapid growth and tendency to invade surrounding brain tissue. Here an MRI image of a GBM mouse model of in vivo study is reported. The image relates to several MRI sequences at 7T on the same model.
 ![hello](images/MRIbrain.png).
 
 
