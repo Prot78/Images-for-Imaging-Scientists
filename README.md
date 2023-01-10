@@ -7,6 +7,8 @@ Glioblastoma (GBM) is a type of brain tumor that is classified as a grade IV ast
 
 
 ## Cardiac MRI of VSOP in infarcted heart 
+A study was conducted to investigate the use of iron nanoparticle in an infarcted myocardium in the acute to chronic phase. Accumulation of the latter
+was achieved in macrophges within the infarcted area as a sign of inflammation in the acute phase of the disease burden. Although macrophages continue to withhold the particle through time, the quantity of VSOP is reduce at late stage of infarction due perhaps to the removal of the macrophages initially accumulated.  
 ![hello](images/CMRI.png).
 
 
